@@ -3,7 +3,7 @@
 
   <default sync-j="4" revision="master"/>
 
-  <remote fetch="https://git.yoctoproject.org/git"                      name="yocto"/>
+  <remote fetch="https://github.com/yoctoproject/poky.git"              name="yocto"/>
   <remote fetch="https://github.com/openembedded"                       name="oe"/>
   <remote fetch="https://github.com/Freescale"                          name="freescale"/>
   <remote fetch="https://github.com/SolidRun"                           name="solidrun"/>
